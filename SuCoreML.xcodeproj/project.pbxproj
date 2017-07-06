@@ -13,6 +13,7 @@
 		BC8271971F0E6B1100D9E3F1 /* SuCoreML.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BC8271951F0E6B1100D9E3F1 /* SuCoreML.xcdatamodeld */; };
 		BC8271991F0E6B1100D9E3F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC8271981F0E6B1100D9E3F1 /* Assets.xcassets */; };
 		BC82719C1F0E6B1100D9E3F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC82719A1F0E6B1100D9E3F1 /* LaunchScreen.storyboard */; };
+		BC8271A61F0E6C7D00D9E3F1 /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BC8271A51F0E6C7D00D9E3F1 /* GoogLeNetPlaces.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BC8271981F0E6B1100D9E3F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC82719B1F0E6B1100D9E3F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC82719D1F0E6B1100D9E3F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC8271A51F0E6C7D00D9E3F1 /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = GoogLeNetPlaces.mlmodel; path = ../../../../Desktop/GoogLeNetPlaces.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BC8271921F0E6B1100D9E3F1 /* Main.storyboard */,
 				BC8271981F0E6B1100D9E3F1 /* Assets.xcassets */,
 				BC82719A1F0E6B1100D9E3F1 /* LaunchScreen.storyboard */,
+				BC8271A51F0E6C7D00D9E3F1 /* GoogLeNetPlaces.mlmodel */,
 				BC82719D1F0E6B1100D9E3F1 /* Info.plist */,
 				BC8271951F0E6B1100D9E3F1 /* SuCoreML.xcdatamodeld */,
 			);
@@ -141,6 +144,7 @@
 				BC8271971F0E6B1100D9E3F1 /* SuCoreML.xcdatamodeld in Sources */,
 				BC8271911F0E6B1100D9E3F1 /* ViewController.swift in Sources */,
 				BC82718F1F0E6B1100D9E3F1 /* AppDelegate.swift in Sources */,
+				BC8271A61F0E6C7D00D9E3F1 /* GoogLeNetPlaces.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
