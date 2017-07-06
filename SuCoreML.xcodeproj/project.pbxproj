@@ -320,6 +320,7 @@
 				BC8271A21F0E6B1100D9E3F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

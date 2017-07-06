@@ -41,7 +41,7 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,UINavigat
             
             // Update the Main UI Thread with our result
             DispatchQueue.main.async { [weak self] in
-                self?.lblResult.text = "\(topResult.identifier) with \(Int(topResult.confidence * 100))% confidence)"
+                self?.lblResult.text = "\(topResult.identifier) with \(Int(topResult.confidence * 100))% confidence"
                 
             }
         }
